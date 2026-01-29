@@ -1,0 +1,8 @@
+python-dotenv
+asyncio
+langchain
+langchain-ollama
+streamlit
+langchain-openai
+langgraph-checkpoint-mongodb
+matplotlib
