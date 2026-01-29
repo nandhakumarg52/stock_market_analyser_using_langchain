@@ -67,12 +67,14 @@ stock_market_analyser_using_langchain/
 ├── tools.py                # Tools for stock market API interactions
 ├── prompts.py              # System and agent prompts
 ├── utils.py                # Helper and utility functions
-├── requirements.txt        # Python dependencies
-├── Dockerfile              # Docker image definition
+├── requirements.txt        # Python dependencies (Python 3.12)
+├── Dockerfile              # Docker image definition (Python 3.12)
 ├── docker-compose.yml      # Docker services (App, MongoDB, Ollama)
 ├── .gitignore              # Git ignored files
 └── README.md               # Project documentation
 ```
+
+> **Python Version:** `3.12`
 
 ---
 
